@@ -2,7 +2,7 @@
 
 Simple mock api server
 
-To run:
+### Instructions
 
 ```
 $ pnpm install && pnpm start
